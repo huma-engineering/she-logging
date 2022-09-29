@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/she-logging) to Huma organisation as part of change in asset ownership 
 # she-logging
 A common logging configuration for Sensyne Health microservices.
 
